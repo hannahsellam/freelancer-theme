@@ -87,10 +87,11 @@ header {
 }
 
 .img-responsive {
-    height: 200px;
+    
+     height: 200px;
     width: 200px; 
     border-radius: 50%;
-        
+    
 }
 
 header .container {
@@ -101,9 +102,6 @@ header .container {
 header {
     display: block;
     margin: 0 auto 20px;
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
 }
 
 header .intro-text .name {
